@@ -45,7 +45,7 @@ plt.xlabel('Frequency - kHz', fontsize=16, fontweight="bold")
 plt.ylabel('Attenuation - dB/km', fontsize=16, fontweight="bold")
 plt.xscale('log')
 plt.yscale('log')
-plt.legend()
+plt.legend(True, which="both")
 plt.grid()
 
 plt.savefig("SoundWavesinWater.png", dpi=300 )
