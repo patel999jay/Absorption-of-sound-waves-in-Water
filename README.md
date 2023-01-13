@@ -60,3 +60,6 @@ plt.savefig("SoundWavesinWater.png", dpi=300 )
 ```
 
 ![png](SoundWavesinWater.png)
+
+## References: 
+1. [Ainslie and McColm, 1998](http://resource.npl.co.uk/acoustics/techguides/seaabsorption/physics.html)
